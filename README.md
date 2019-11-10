@@ -1,1 +1,1 @@
-# Friction
+# Box Class
